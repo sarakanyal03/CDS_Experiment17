@@ -58,6 +58,7 @@ using namespace std;
  } 
 ```
 * OUTPUT A : <BR>
+![EXP 17A](https://github.com/sarakanyal03/CDS_Experiment17/blob/main/17A.png)
 2. CODE B:
 ```
 //SARA KANYAL
@@ -152,4 +153,5 @@ int main() {
 
 ```
 * OUTPUT B : <BR>
+![EXP 17B](https://github.com/sarakanyal03/CDS_Experiment17/blob/main/17B.png)
 ### CONCLUSION
