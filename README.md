@@ -155,3 +155,4 @@ int main() {
 * OUTPUT B : <BR>
 ![EXP 17B](https://github.com/sarakanyal03/CDS_Experiment17/blob/main/17B.png)
 ### CONCLUSION
+ The experiment successfully demonstrated the importance and efficiency of linked lists in C++ programming. The implementation highlighted the advantages of linked lists in terms of dynamic memory management and operation efficiency, while also emphasizing the need for careful pointer management to avoid memory leaks or crashes. This experiment forms a crucial step toward understanding more advanced data structures and algorithms.
